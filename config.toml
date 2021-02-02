@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 author = "Manusia Hitam"
-baseURL = "https://wilfauzy.github.io/gelap"
+baseURL = "https://wilfauzy.github.io/gelap/"
 copyright = "Copyright © 2008–2019, Black Live Matters; all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
@@ -35,6 +35,9 @@ github = "https://github.com/jonathanjanssens"
 logo = "/images/ghost-transparent.png"
 mainSections = ["post"]
 twitter = "https://twitter.com"
+[privacy.instagram]
+disabled = false
+simple = false
 [privacy.twitter]
 disabled = false
 enableDNT = true
