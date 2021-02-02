@@ -36,7 +36,7 @@ logo = "/images/ghost-transparent.png"
 mainSections = ["post"]
 twitter = "https://twitter.com"
 [privacy.instagram]
-disabled = true
+disabled = false
 simple = false
 [privacy.twitter]
 disabled = false
